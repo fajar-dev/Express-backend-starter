@@ -1,0 +1,32 @@
+{
+  "name": "backend-starter",
+  "version": "1.0.0",
+  "description": "User Authentication JWT Rest API mysql",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farinchan/User-Auth-API-mysql.git"
+  },
+  "author": "Fajri Rinaldi Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farinchan/User-Auth-API-mysql/issues"
+  },
+  "homepage": "https://github.com/farinchan/User-Auth-API-mysql#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^9.0.0",
+    "multer": "^1.4.5-lts.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.28.0"
+  }
+}
