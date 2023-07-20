@@ -38,8 +38,8 @@
 
 ```JSON
 {
-  "name": "fajri",
-  "email": "fajri@farindev.my.id",
+  "name": "Fajar Rivaldi Chan",
+  "email": "fajarrivaldi2015@gmail.com",
   "password": "123456789"
 }
 ```
@@ -48,8 +48,8 @@ Should return something like:
 
 ```JSON
 {
-    "name": "fajri",
-    "email": "fajri@farindev.my.id",
+    "name": "Fajar Rivaldi Chan",
+    "email": "fajarrivaldi2015@gmail.com",
     "password": "$2a$10$hQN7uKIcuu2fXTet2nxPSe3jXD7GtSglsX/2JZM3Wxz31JWk8mTTS",
     "_id": "6288838ce9afa35b2f1537b1",
     "created_at": "2022-05-21T06:15:40.958Z",
