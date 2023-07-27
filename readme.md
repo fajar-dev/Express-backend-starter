@@ -11,7 +11,7 @@
 
 
 ## How To Start
-- rename the .env.example file to .env
+- rename the .env.example file to .env 
 - add mysql database information
 - paste your cluster connection string to DB_CONNECTION in .env
 - add TOKEN_SECRET for JWT
